@@ -1,0 +1,26 @@
+{
+  "name": "@surihoney/time-ago", 
+  "version": "1.0.0",
+  "description": "Lightweight utility to humanize past timestamps into relative time strings.",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build",
+    "test": "node --test test/time-ago.test.cjs"
+  },
+  "keywords": [
+    "time",
+    "relative",
+    "humanize",
+    "timestamp"
+  ],
+  "author": "Suriyanti Panagen",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}
