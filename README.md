@@ -1,6 +1,6 @@
 A zero-dependency TypeScript utility to convert timestamps into human-readable "time ago" strings. It’s a lightweight alternative to heavy date libraries.
 
-### Usage
+###Usage
 
 ```
 import { timeAgo } from '@surihoney/time-ago';
