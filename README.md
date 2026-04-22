@@ -1,6 +1,8 @@
 
 ## @surihoney/time-ago
 
+[![npm version](https://img.shields.io/npm/v/@surihoney/time-ago.svg)](https://www.npmjs.com/package/@surihoney/time-ago)
+
 A zero-dependency TypeScript utility to convert timestamps into human-readable "time ago" strings. It’s a lightweight alternative to heavy date libraries.
 
 ### Installation
